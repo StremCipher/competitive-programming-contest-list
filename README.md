@@ -3,7 +3,7 @@
 ## Table of Contents :clipboard:
 1.  [Competitive Programming](#1-Competitive-Programming)
 2.  [Development-and-Hackthon](#2-Development-and-Hackthon)
-
+3.  Contributors are most welcome
 # 1 Competitive-Programming
 
 Name |Brief Detail |Link |Time Line| eligibility |Prize|Job Opportunity 
