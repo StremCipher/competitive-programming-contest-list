@@ -30,5 +30,5 @@ Cisco Ideathon |Annual Hackthon by Cisco| [link](https://www.cisco.com/c/m/en_in
 Hack MIT |Annual Hackthon By MIT| [link](https://hackmit.org/) | Every Year | university student | Yes |For Top Performer
 NASA Space App chalange | Nasa Hachthon | [lnik](https://www.spaceappschallenge.org/) | Every Year| open to all (not sure)| Yes | Might be
 Smart India Hackthon | For Indian College Student Only | [lnik](https://www.sih.gov.in/sih2022) | Every Year| for Indian college student| Yes | Might be
-IIT Bombay TechFest | annual technical fest of IIT Bombay (Asia largest technical fest) | [lnik](https://techfest.org) [all other iit fest list](https://en.wikipedia.org/wiki/List_of_cultural_and_technical_festivals_in_IITs_and_NITs) | Every Year| college student only| Yes | Might be by sponsers
+IIT Bombay TechFest | annual technical fest of IIT Bombay (Asia largest technical fest) | [link,](https://techfest.org) [all other iit fest list](https://en.wikipedia.org/wiki/List_of_cultural_and_technical_festivals_in_IITs_and_NITs) | Every Year| college student only| Yes | Might be by sponsers
 
