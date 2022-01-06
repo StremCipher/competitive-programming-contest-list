@@ -6,9 +6,9 @@
 
 # 1 Competitive-Programming
 
-Name |Brief Detail |Link |Time Line| Job Opportunity 
---- | --- | --- | --- | -----------
-ICPC | Formally Know as Olympics Of Programming | https://icpc.global | Every Year | For Top Performer
-ICPC | Formally Know as Olympics Of Programming | https://icpc.global | Every Year | For Top Performer
-ICPC | Formally Know as Olympics Of Programming | https://icpc.global | Every Year | For Top Performer
-ICPC | Formally Know as Olympics Of Programming | https://icpc.global | Every Year | For Top Performer
+Name |Brief Detail |Link |Time Line| eligibility |Job Opportunity 
+--- | --- | --- | --- | ---- | ----- 
+ICPC | Formally Know as Olympics Of Programming | https://icpc.global | Every Year | for university student only|For Top Performer
+ICPC | Formally Know as Olympics Of Programming | https://icpc.global | Every Year | for university student only|For Top Performer
+ICPC | Formally Know as Olympics Of Programming | https://icpc.global | Every Year | for university student only|For Top Performer
+ICPC | Formally Know as Olympics Of Programming | https://icpc.global | Every Year | for university student only|For Top Performer
