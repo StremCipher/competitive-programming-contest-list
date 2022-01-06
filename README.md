@@ -4,7 +4,7 @@
 1.  [Competitive Programming](#1-Competitive-Programming)
 2.  [BAckend-Team-Data](#2-Backend-Team-Data)
 
-# 1-Competitve-Programming
+# 1 Competitve-Programming
 
 Name |Link | login-id| login-pass | card details
 --- | --- | --- | --- | -----------
