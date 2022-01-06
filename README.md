@@ -1,10 +1,10 @@
 # List of All Competitive Programming Contest List
 
 ## Table of Contents :clipboard:
-1.  [Competitive Programming](#1-Competitive-Programming)
+1.  [Competitive Programming](#1-Testing-Team)
 2.  [BAckend-Team-Data](#2-Backend-Team-Data)
 
-# 1 Competitve-Programming
+# 1 Testing-Team
 
 Name |Link | login-id| login-pass | card details
 --- | --- | --- | --- | -----------
